@@ -16,7 +16,7 @@ This project is a simple weather application built with React.js and styled usin
 The Weather component fetches weather data from the OpenWeatherMap API and displays it on the UI.
 
 #### Methods and Features:
-- **API Call**: Uses the `fetch` API to retrieve weather data based on the user-provided city name.
+- **API Call**: Uses the `fetch` API to retrieve weather data based on the user-provided city name and forecast api also.
 - **Error Handling**: Handles errors such as invalid city names or API failures.
 - **Dynamic Icon Rendering**: Displays weather icons based on the weather condition retrieved from the API.
 - **Responsive Design**: Utilizes Tailwind CSS for responsive layout and styling.
